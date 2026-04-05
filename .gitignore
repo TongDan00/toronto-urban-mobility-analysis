@@ -1,0 +1,10 @@
+.DS_Store
+*.db
+toronto_transportation.db
+*.csv
+!kpi_1_cancellations_by_hour.csv
+!kpi_2_revenue_and_idle.csv
+!kpi_3_pooled_efficiency.csv
+!sample_data/*.csv
+__pycache__/
+.ipynb_checkpoints/
