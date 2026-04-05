@@ -12,8 +12,8 @@ This project is an end-to-end data engineering and business intelligence analysi
 **The Solution:** I engineered a local ETL (Extract, Transform, Load) pipeline using Python and SQLite. By utilizing iterative batch processing, I successfully loaded and parsed all 300+ million rows on a local machine, aggregated the data using SQL, and exported three lightweight, optimized KPI datasets for visualization in Tableau.
 
 ## Tech Stack
-- **Data Engineering:** Python (Pandas, Glob), SQLite3
-- **Data Analysis:** SQL (Aggregation, Date Parsing, Chunking)
+- **Data Engineering:** Python (Pandas, Glob), SQLite3 *(Implemented iterative batch processing to stay within local RAM limits and prevent memory overflow.)*
+- **Data Analysis:** SQL (Aggregation, Date Parsing, Window Functions)
 - **Data Visualization:** Tableau Public
 - **Version Control:** Git / GitHub
 
