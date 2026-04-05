@@ -1,6 +1,7 @@
 # Toronto Urban Mobility: Big Data ETL & Efficiency Analysis
-Author: YuTong Lin
-**Interactive Dashboard:** [!(images/toronto_urban_mobility_dashboard.png)](https://public.tableau.com/views/TorontoUrbanMobilityOperationalEfficiencyAnalysis/TorontoUrbanMobilityPost-PandemicEfficiencyRevenueAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Author:** YuTong Lin
+
+**Interactive Dashboard:** [![Dashboard Preview](images/toronto_urban_mobility_dashboard.png)](https://public.tableau.com/views/TorontoUrbanMobilityOperationalEfficiencyAnalysis/TorontoUrbanMobilityPost-PandemicEfficiencyRevenueAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 *< Click the image above to view the interactive dashboard on Tableau Public >*
 
 ## Project Overview

@@ -1,0 +1,13 @@
+# Core Data Engineering & Analysis
+pandas==2.2.1
+numpy==1.26.4
+
+# Database Connections
+SQLAlchemy==2.0.28 
+
+# Environment & Security
+python-dotenv==1.0.1
+
+# Development & Notebook Environment
+jupyter==1.0.0
+notebook==7.1.2
