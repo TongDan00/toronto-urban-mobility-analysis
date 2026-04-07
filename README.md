@@ -82,9 +82,9 @@ The raw dataset used in this project is publicly available through the City of T
 
 Dataset: Vehicle Operating Data / Private Transportation Companies
 
-Source: Toronto Open Data Portal(https://open.toronto.ca/dataset/private-transportation-companies-vehicle-operating-data/)
+Source:[Toronto Open Data Portal](https://open.toronto.ca/dataset/private-transportation-companies-vehicle-operating-data/)
 
-To reproduce this project:
+## To reproduce this project:
 - Download the raw CSV files from the portal.
 - Store them in the expected local raw-data folder.
 - Run 01_etl_extract_load.ipynb to load the data into SQLite.
