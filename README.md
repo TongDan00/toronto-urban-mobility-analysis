@@ -79,10 +79,13 @@ toronto-urban-mobility/
 
 ## Data Source & Reproducibility
 The raw dataset used in this project is publicly available through the City of Toronto Open Data Portal.
+
 Dataset: Vehicle Operating Data / Private Transportation Companies
-Source: Toronto Open Data Portal[https://open.toronto.ca/dataset/private-transportation-companies-vehicle-operating-data/]
+
+Source: Toronto Open Data Portal(https://open.toronto.ca/dataset/private-transportation-companies-vehicle-operating-data/)
+
 To reproduce this project:
-- 1. Download the raw CSV files from the portal.
-- 2. Store them in the expected local raw-data folder.
-- 3. Run 01_etl_extract_load.ipynb to load the data into SQLite.
-- 4. Run 02_kpi_analysis.ipynb to generate the KPI outputs used in Tableau.
+- Download the raw CSV files from the portal.
+- Store them in the expected local raw-data folder.
+- Run 01_etl_extract_load.ipynb to load the data into SQLite.
+- Run 02_kpi_analysis.ipynb to generate the KPI outputs used in Tableau.
